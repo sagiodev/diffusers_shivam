@@ -1,6 +1,6 @@
 accelerate
 pytorch=1.13
-torchvision
+torchvision=0.14
 transformers>=4.21.0
 ftfy
 tensorboard
