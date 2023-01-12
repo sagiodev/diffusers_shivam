@@ -1,4 +1,5 @@
 accelerate
+pytorch=1.13
 torchvision
 transformers>=4.21.0
 ftfy
